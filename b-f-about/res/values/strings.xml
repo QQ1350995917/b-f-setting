@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">DPDF</string>
+	<string name="version">1.0-SNAPSHOT</string>
+    <string name="string_com_dingpw_android_setting_about_homepage">Homepage:<a href="http://www.google.com">www.dingpw.com</a></string>
+    <string name="string_com_dingpw_android_setting_about_email">Email:<a href="email:www.dingpengwei@gmail.com">www.dingpengwei@gmail.com</a></string>
+
+
+
+
+    <item type="id" name="com_dingpw_android_setting_about_logo_id"/>
+    <item type="id" name="com_dingpw_android_setting_about_email_id"/>
+    <item type="id" name="com_dingpw_android_setting_about_homepage_id"/>
+    <item type="id" name="com_dingpw_android_setting_about_update_id"/>
+</resources>

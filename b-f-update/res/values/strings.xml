@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">DPDF</string>
+	<string name="version">1.0-SNAPSHOT</string>
+	<string name="cancel">Cancel</string>
+
+    <string name="string_com_dingpw_android_setting_update_unknown">V:unknown</string>
+    <string name="string_com_dingpw_android_setting_update_version">V:</string>
+    <string name="string_com_dingpw_android_setting_update_version_new">有新版本V:</string>
+</resources>
