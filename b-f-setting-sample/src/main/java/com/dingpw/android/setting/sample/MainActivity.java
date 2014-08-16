@@ -36,9 +36,11 @@ public class MainActivity extends Activity {
 
     @Override
     public boolean onKeyUp(int keyCode, KeyEvent event) {
-        this.alertDialog.show();
-        Window window = this.alertDialog.getWindow();
-        window.setContentView(new AboutView(this));
+        if(keyCode == KeyEvent.KEYCODE_MENU){
+            this.alertDialog.show();
+            Window window = this.alertDialog.getWindow();
+            window.setContentView(new AboutView(this));
+        }
         return super.onKeyUp(keyCode, event);
     }
 }
