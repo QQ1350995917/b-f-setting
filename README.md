@@ -28,4 +28,4 @@ $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 ![GitHub Mark](http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png "GitHub Mark")
 
-$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+$$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
