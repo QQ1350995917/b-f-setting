@@ -14,7 +14,7 @@ b-f-setting
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-$$f(x) = \sum_{i=0}^{N}\int_{a}^{b} g(t,i) \text{ d}t{6}\tag{1}$$
+$$f(x)=\sum_{i=0}^{N}\int_{a}^{b} g(t,i) \text{ d}t{6}\tag{1}$$
 
 
 - 无序列表
