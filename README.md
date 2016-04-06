@@ -17,3 +17,15 @@ b-f-setting
 $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 
+- 无序列表
+- 无序列表
+- 无序列表
+- 无序列表：我很长。我也很长！那比一比啊？比就比！我有这么长，你有我长吗？我有这么这么长！好吧，你赢了！
+
++ 无序列表
++ 无序列表
++ 无序列表
+
+![GitHub Mark](http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png "GitHub Mark")
+
+$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
