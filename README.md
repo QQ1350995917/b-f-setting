@@ -14,7 +14,7 @@ b-f-setting
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+$$f(x) = \sum_{i=0}^{N}\int_{a}^{b} g(t,i) \text{ d}t{6}\tag{1}$$
 
 
 - 无序列表
@@ -28,4 +28,3 @@ $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 ![GitHub Mark](http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png "GitHub Mark")
 
-$$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
